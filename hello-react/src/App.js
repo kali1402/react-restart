@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const name = '김현준';
-  const age = '19'
+  const age = '18'
   const style = {
     fontSize: 24,
     color: "blue"
